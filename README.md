@@ -5,7 +5,7 @@
 * Juhyun Shin (Yonsei Univ, Rep. of Korea)
 
 ## Copyright
-[MIT Lisence](LISENCE)
+[MIT Lisence](LICENSE)
 
 ## Version info
 ### v0.5
