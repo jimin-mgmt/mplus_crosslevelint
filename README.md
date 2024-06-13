@@ -1,8 +1,8 @@
 # mplus_crosslevelint
 
 ## Author : 
-* Jimin Kwon (Kyunggi Univ, Rep. of Korea)
-* Juhyun Shin (Yonsei Univ, Rep. of Korea)
+* Jimin Kwon (Kyonggi Univ, Rep. of Korea)
+* Jihyun Shin (Yonsei Univ, Rep. of Korea)
 
 ## Copyright
 [MIT Lisence](LICENSE)
