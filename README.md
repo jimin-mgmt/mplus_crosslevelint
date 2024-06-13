@@ -20,3 +20,9 @@ Syntax for main effects of X on Y1 and X on Y2 along with a number of L1 control
 Multilevel syntax for effects of X and L1 control variables on Y1 and Y2, and also for effects of W and a L2 control variable on Y1 and Y2. This syntax was created solely to examine the effects of X, W, and control variables on Y1 and Y2 prior to the analysis of cross-level interaction between X and W on Y1 and Y2.
 ### CROSSLEVEL_INT
 Multilevel syntax for a cross-level interaction between X and W on Y1 and Y2 by creating random slopes in which each slope includes effects of X and L1 control variables on Y1 and Y2, respectively. These random slopes are then regressed onto a level 2 moderator for cross-level interaction analyses. Note that in creating these random slopes, effects of L1 control variables are included such that for example, S1 was defined as Y1 on X L1CTRL1 L1CTRL2 L1CTRL3. Thus, fixed effects of Y1 on L1CTRL1 L1CTRL2 L1CTRL3 were examined in a separate model (MODERATOR_ON_DV syntax). This was specifically done as the original dataset has shown statistically significant difference in effects of control variables across clusters (teams), which motivated us to include these fixed effects for S1 and S2. Results may vary for any other datasets other than the one that this syntax was based on.
+
+REFERENCES
+1. Muthen & Muthen (2017)
+2. Bauer & Curran (2005) 
+3. Hofmann & Gavin (1998)
+4. Stride, Gardner, Catley, Thomas (2015)
