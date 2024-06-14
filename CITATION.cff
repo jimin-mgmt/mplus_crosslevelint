@@ -4,9 +4,6 @@ authors:
 - family-names: "Kwon"
   given-names: "Jimin"
   orcid: "https://orcid.org/0000-0002-0087-2605"
-- family-names: "Shin"
-  given-names: "Jihyun"
-  orcid: "N/A"
   title: "Mplus Cross-level Interaction Syntax"
 version: 0.0.5
 identifiers:
