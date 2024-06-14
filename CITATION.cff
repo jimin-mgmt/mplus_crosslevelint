@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this syntax for your research, please cite it as below."
 authors:
 - family-names: "Kwon"
@@ -6,8 +6,11 @@ authors:
   orcid: "https://orcid.org/0000-0002-0087-2605"
 - family-names: "Shin"
   given-names: "Jihyun"
+  orcid: "N/A"
   title: "Mplus Cross-level Interaction Syntax"
-version: 0.5
-doi: 10.5281/zenodo.11630303
+version: 0.0.5
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11630303
 date-released: 2024-06-13
 url: "https://github.com/jimin-mgmt/mplus_crosslevelint"
